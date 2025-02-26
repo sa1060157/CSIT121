@@ -1,0 +1,20 @@
+body {
+    background-color: #eaeaea;
+    color: #003
+}
+h1 {
+    color: brown;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif
+}
+p {
+    background-color: green;
+    color: white;
+}
+ul {
+    background-color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: purple;
+}
+/* Add your CSS styles here */
+     
